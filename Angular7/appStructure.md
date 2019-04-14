@@ -1,0 +1,17 @@
+- \src
+   - index.html
+   - \app
+      - app.module.ts
+      - app-routing.module.ts (route configs.)
+      - \auth
+         - auth.guard.ts
+      - \shared
+         - user.service.ts
+      - \home
+         - home.component.ts|.html|.css
+      - \user
+         - user.component.ts|.html|.css
+         - \registration
+            - registration.component.ts|.html|.css
+         - \login
+            - login.component.ts|.html|.css
