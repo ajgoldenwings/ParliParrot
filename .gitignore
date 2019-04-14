@@ -2,3 +2,8 @@
 WebAPI/WebAPI/bin
 WebAPI/WebAPI/obj
 WebAPI/.vs
+ASPNETCore/.vs
+ASPNETCore/ParliParrot/.vs
+ASPNETCore/ParliParrot/obj
+ASPNETCore/WebAPI/bin
+ASPNETCore/WebAPI/obj
